@@ -1,5 +1,5 @@
 ---
-layout: lside
+*layout:* lside
 title: "Welcome to our second slide!"
 ---
 Your text
